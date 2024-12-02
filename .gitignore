@@ -1,0 +1,12 @@
+logs/
+certs/
+comms/
+moonraker.asvc
+systemd/
+printer-20*.cfg
+gcodes/
+database/
+misc/
+.moonraker.*
+config-20*.zip
+
