@@ -9,4 +9,5 @@ database/
 misc/
 .moonraker.*
 config-20*.zip
-
+config/octo*
+octo*
